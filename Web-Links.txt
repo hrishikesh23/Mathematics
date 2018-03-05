@@ -3,3 +3,6 @@ https://www.mathplanet.com/education/algebra-1/formulating-linear-equations/writ
 
 Statistics Reference material for Study:
 https://onlinecourses.science.psu.edu/stat501/node/250
+
+#Writing Contents in Maths
+https://www.sharelatex.com/project/5a9ced014f682c0451b63292
