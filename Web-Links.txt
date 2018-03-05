@@ -1,2 +1,5 @@
 Calculating Slope of Linear Equation:
 https://www.mathplanet.com/education/algebra-1/formulating-linear-equations/writing-linear-equations-using-the-slope-intercept-form
+
+Statistics Reference material for Study:
+https://onlinecourses.science.psu.edu/stat501/node/250
