@@ -6,3 +6,6 @@ https://onlinecourses.science.psu.edu/stat501/node/250
 
 #Writing Contents in Maths
 https://www.sharelatex.com/project/5a9ced014f682c0451b63292
+
+Machine Learning - Mathematics Youtube
+https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
