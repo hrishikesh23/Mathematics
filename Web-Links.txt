@@ -15,3 +15,8 @@ https://www.youtube.com/watch?v=UzxYlbK2c7E&list=PLA89DCFA6ADACE599
 
 Machine Learning - Google
 https://developers.google.com/machine-learning/crash-course/ml-intro
+
+#Python Trading Analysis
+https://www.quantinsti.com/blog/basic-operations-stock-data-using-python/
+
+
