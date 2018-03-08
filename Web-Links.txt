@@ -30,3 +30,6 @@ https://www.investopedia.com/terms/s/sma.asp
 # Machine Learning with Python for Finance
 http://www.learndatasci.com/python-finance-part-3-moving-average-trading-strategy/
 
+# Scrapy Videos
+https://www.youtube.com/watch?v=JU2wUgOK4-o
+
