@@ -20,3 +20,13 @@ https://developers.google.com/machine-learning/crash-course/ml-intro
 https://www.quantinsti.com/blog/basic-operations-stock-data-using-python/
 
 
+# The Web Page Provides the computational functions list for pyhton - pct_change etc
+https://pandas.pydata.org/pandas-docs/stable/computation.html
+
+# Term Explained Well . What is SMA
+https://www.investopedia.com/terms/s/sma.asp
+
+
+# Machine Learning with Python for Finance
+http://www.learndatasci.com/python-finance-part-3-moving-average-trading-strategy/
+
