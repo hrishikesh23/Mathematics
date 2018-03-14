@@ -33,3 +33,9 @@ http://www.learndatasci.com/python-finance-part-3-moving-average-trading-strateg
 # Scrapy Videos
 https://www.youtube.com/watch?v=JU2wUgOK4-o
 
+#Finance Project
+https://github.com/robertmartin8/MachineLearningStocks
+
+# Finance Python
+https://pythonprogramming.net/data-acquisition-machine-learning/
+
