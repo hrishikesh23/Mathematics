@@ -39,3 +39,14 @@ https://github.com/robertmartin8/MachineLearningStocks
 # Finance Python
 https://pythonprogramming.net/data-acquisition-machine-learning/
 
+
+# Scikit learn : sentdex youtube videos
+# Tutorial for machine learning and investing
+
+
+#Blockchain
+https://blockexplorer.com/
+https://anders.com/blockchain/blockchain.html
+https://bitcoin.org/bitcoin.pdf
+
+
